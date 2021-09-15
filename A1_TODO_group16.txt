@@ -2,7 +2,7 @@ TODO for COMP 3770 A1 (and whos done what/whos assigned what)
 
 1. Set up git and add peeps (Done by: Gabe) 
 2. Install and set up unity (Per Group memeber)
-3. Move the scene's maine camera to position  (5.5,8.5,-12) w/ rotation of (30,-25,0) (Done by: )
+3. Move the scene's maine camera to position  (5.5,8.5,-12) w/ rotation of (30,-25,0) (Done by: Gianna)
 4. Hit play ;) (per group memeber)
 5. Explain each primitive object in a document called "Explanations.docx" and put it in your project folder (Done by: )
 	why it behaved the way it did
