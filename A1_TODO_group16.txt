@@ -23,27 +23,27 @@ In unity:
 	h. teal (0,128,128,128) *transparent* (Done by: A Little Gingus) (NOTE: for the transparent the shader must support the aplpha channel (not the default opaque shader))
 	i. white (255,255,255,255) (Done by: Mingus^-1)
 	j. yellow (0,0,255,255) (Done by: Giagnus)
- 2. Make a teal, transparent plane @ (0,0,0,255)
- 3. Make a blue cube named "Blue Cube" and set its position to (-3,1-3) (Done by: )
+ 2. Make a teal, transparent plane @ (0,0,0) (Done by: The Little Gingus that Could)
+ 3. Make a blue cube named "Blue Cube" and set its position to (-3,1-3) (Done by: You Guessed It, Gingus)
  4. Make a red sphere named "Red Sphere 1" and set its position to (-2.5,1,0) w/ rigidbody that uses gravity and is not kinematic 
-    (Done by: )
- 5. Make a red sphere named "Red Sphere 2" and set its position to (-1.5,1,0) w/o rigidbody (Done by: )
+    (Done by: I Can't Believe It's Not Gingus)
+ 5. Make a red sphere named "Red Sphere 2" and set its position to (-1.5,1,0) w/o rigidbody (Done by: Oops I Gingus Again)
  6. Make a green capsule named "Green Capsule" and set its position to (-3,2,3) w/ rigidbody that is not kinematic and uses gravity 
-    set the scale to (2,2,2) (Done by: )
- 7. Make a yellow cylinder named "Yellow Cylinder" and set its position to (0,1,-3) (Done by: )
- 8. Make an orange sphere named "Orange Sphere" and set its position to (0,1,0) w/ kinematic rigidbody that uses gravity (Done by: )
- 9. Make a purple cube named "Purple Cube" and set its position to (0,1,3) w/ rotation (45,45,45) (Done by: )
+    set the scale to (2,2,2) (Done by: Gingus, Taker of the Green Pill (or capsule ig))
+ 7. Make a yellow cylinder named "Yellow Cylinder" and set its position to (0,1,-3) (Done by: Gingus No. 5)
+ 8. Make an orange sphere named "Orange Sphere" and set its position to (0,1,0) w/ kinematic rigidbody that uses gravity (Done by: Gingus 2 Electric Boogaloo)
+ 9. Make a purple cube named "Purple Cube" and set its position to (0,1,3) w/ rotation (45,45,45) (Done by: Gingus Is Running Out of Funny Name Ideas)
 10. Make a white sphere named "White Sphere 1" and set its potition to (1.5,1,0) w/ kinematic rigidbody 
-    that does not use gravity (Done by: )
+    that does not use gravity (Done by: Featuring Gingus from the Devil May Cry Series)
 11. Make a white sphere named "White Sphere 2" and set its position to(2.5,1,0) w/ rigidbody that uses gravity and 
-    not kinematic (Done by: )
+    not kinematic (Done by: Your Friendly Neighbourhood Gingus)
 12. Make a grey sphere named "Grey Sphere" and set its position to (3,4,-3) w/ rigidbody that uses gravity and not
-    kinematic (Done by: )
+    kinematic (Done by: There is a Gingus Amingus)
 13. Make a black shpere named "Black Sphere" and set its positon to (3,4,3) w/ rigidbody that uses gravity, 
-    not kinematic with the collider removed (Done by: )
-14. Make a yellow cube named "Yellow Cube" and set its position to (5.5,0,0) w/o rigidbody (Done by: )
+    not kinematic with the collider removed (Done by: The little Gingus that lives in your walls.)
+14. Make a yellow cube named "Yellow Cube" and set its position to (5.5,0,0) w/o rigidbody (Done by: The big Gingus up in the sky)
 15. Make a black cube named "Black Cube" and st its position to (4,1,0) w/ rotaion of (0,0,45) and scale of (0.5,1,2), 
-    rigidbody that does not used gravity and not kinematic (Done by: )
+    rigidbody that does not used gravity and not kinematic (Done by: A Gingus that nobody knows.)
 
 Scritps
 1. Make a folder called scripts (Done by: )
