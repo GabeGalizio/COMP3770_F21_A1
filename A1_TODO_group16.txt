@@ -1,0 +1,55 @@
+TODO for COMP 3770 A1 (and whos done what/whos assigned what)
+
+1. Set up git and add peeps (Done by: Gabe) 
+2. Install and set up unity (Per Group memeber)
+3. Move the scene's maine camera to position  (5.5,8.5,-12) w/ rotation of (30,-25,0) (Done by: )
+4. Hit play ;) (per group memeber)
+5. Explain each primitive object in a document called "Explanations.docx" and put it in your project folder (Done by: )
+	why it behaved the way it did
+	why it move
+	why it didn't move
+	what did you add or remove from the object that made is behave how it did
+
+In unity:
+
+ 1. Make a Materials Folder With (Done by: )
+	a. black (0,0,0,255) (Done by: )
+	b. blue (0,0,255,255) (Done by: )
+	c. green (0,255,0,255) (Done by: )
+	d. grey (0,0,255,255) (Done by: )
+	e. orange (255,128,0,255) (Done by: )
+	f. purple (255,0,255,255) (Done by: )
+	g. red (255,0,0,255) (Done by: )
+	h. teal (0,128,128,128) *transparent* (Done by: ) (NOTE: for the transparent the shader must support the aplpha channel (not the default opaque shader))
+	i. white (255,255,255,255) (Done by: )
+	j. yellow (0,0,255,255) (Done by: )
+ 2. Make a teal, transparent plane @ (0,0,0,255)
+ 3. Make a blue cube named "Blue Cube" and set its position to (-3,1-3) (Done by: )
+ 4. Make a red sphere named "Red Sphere 1" and set its position to (-2.5,1,0) w/ rigidbody that uses gravity and is not kinematic 
+    (Done by: )
+ 5. Make a red sphere named "Red Sphere 2" and set its position to (-1.5,1,0) w/o rigidbody (Done by: )
+ 6. Make a green capsule named "Green Capsule" and set its position to (-3,2,3) w/ rigidbody that is not kinematic and uses gravity 
+    set the scale to (2,2,2) (Done by: )
+ 7. Make a yellow cylinder named "Yellow Cylinder" and set its position to (0,1,-3) (Done by: )
+ 8. Make an orange sphere named "Orange Sphere" and set its position to (0,1,0) w/ kinematic rigidbody that uses gravity (Done by: )
+ 9. Make a purple cube named "Purple Cube" and set its position to (0,1,3) w/ rotation (45,45,45) (Done by: )
+10. Make a white sphere named "White Sphere 1" and set its potition to (1.5,1,0) w/ kinematic rigidbody 
+    that does not use gravity (Done by: )
+11. Make a white sphere named "White Sphere 2" and set its position to(2.5,1,0) w/ rigidbody that uses gravity and 
+    not kinematic (Done by: )
+12. Make a grey sphere named "Grey Sphere" and set its position to (3,4,-3) w/ rigidbody that uses gravity and not
+    kinematic (Done by: )
+13. Make a black shpere named "Black Sphere" and set its positon to (3,4,3) w/ rigidbody that uses gravity, 
+    not kinematic with the collider removed (Done by: )
+14. Make a yellow cube named "Yellow Cube" and set its position to (5.5,0,0) w/o rigidbody (Done by: )
+15. Make a black cube named "Black Cube" and st its position to (4,1,0) w/ rotaion of (0,0,45) and scale of (0.5,1,2), 
+    rigidbody that does not used gravity and not kinematic (Done by: )
+
+Scritps
+1. Make a folder called scripts (Done by: )
+2. To the orange sphere add a script called "MoveIt" that makes it move repeatedly between (3,1,0) and (-3,1,0) (Done by: )
+   moving at 1 unit/s starting to move in the positive direction initially, 
+   it should move from its intial position of (0,1,0) to (3,1,0) (Done by: )
+3. To the yellow cube add a script called "RotateIt" that makes the cube rotate (30,60,90) /s (Done by: )
+4. To the purple cube add a script called "ResizeIt" that scales it up to 4x its orgianal size the back down to its original size
+   @ 1unit/s repeatedly.  (Done by: )
